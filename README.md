@@ -1,1 +1,1 @@
-# digital_image_processing_hw1
+# Digital Image Processing - Homework 1 
