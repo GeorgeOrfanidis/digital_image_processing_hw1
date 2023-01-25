@@ -1,5 +1,5 @@
 # Digital Image Processing - Homework 1 
-MATLAB LiveScript that implements the following requirements: 
+MATLAB LiveScript that implements the following functions: 
 
 <ol type="a">
   <li>read an image into a workspace variable.</li>
@@ -17,9 +17,7 @@ MATLAB LiveScript that implements the following requirements:
 ## Suggested steps
 <ol>
   <li>Download or clone the repository.</li> 
-  <li>```
-var add2 = function(number) {
-  return number + 2;
-}
-```</li> 
+  <li>```git status
+         git add
+         git commit```</li> 
 </ol>
