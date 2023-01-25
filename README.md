@@ -15,9 +15,7 @@ MATLAB LiveScript that implements the following functions:
 </ol>
 
 ## Suggested steps
-<ol>
-  <li>Download or clone the repository.</li> 
-  <li>```git status
+1. Download or clone the repository.
+2.      ```git status
          git add
-         git commit```</li> 
-</ol>
+         git commit```
