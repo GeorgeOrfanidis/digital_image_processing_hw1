@@ -16,6 +16,5 @@ MATLAB LiveScript that implements the following functions:
 
 ## Suggested steps
 1. Download or clone the repository.
-2.      ```git status
-         git add
-         git commit```
+2. Open MATLAB.
+3. Run the ```hw_1.mlx ```.
